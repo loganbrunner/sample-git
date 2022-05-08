@@ -1,1 +1,1 @@
-This is the README file.
+This is the README file. It will describe what the project does.
