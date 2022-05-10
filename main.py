@@ -8,5 +8,5 @@ def sum_vals(input_vals):
 
 
 if __name__ == '__main__':
-    input_vals = [5, 10]
+    input_vals = [5, 50]
     main(input_vals)
