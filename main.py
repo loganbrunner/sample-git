@@ -4,7 +4,7 @@ def main(input_vals=[0, 0]):
 
 
 def sum_vals(input_vals):
-    return input_vals[0] + input_vals[1]
+    return input_vals[0] + input_vals[1] + sum_vals(input_vals)
 
 
 if __name__ == '__main__':
