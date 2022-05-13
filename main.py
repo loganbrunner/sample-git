@@ -4,7 +4,9 @@ def main(input_vals=[0, 0]):
 
 
 def sum_vals(input_vals):
-    return input_vals
+    # MERGE CONFLICT
+    x = 1
+    return input_vals[0] + input_vals[1]
 
 
 if __name__ == '__main__':
